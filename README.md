@@ -12,4 +12,4 @@ The biggest issue this week were how to work on branches and merge - which seeme
 
 ## View it live
 
-https://weatherapp-byemilia-and-ylva-w3.netlify.app/
+https://app.netlify.com/sites/keen-chebakia-d8a542/overview
